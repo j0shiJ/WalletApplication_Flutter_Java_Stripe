@@ -1,0 +1,5 @@
+package com.example.walletapplication
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
